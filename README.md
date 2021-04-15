@@ -166,7 +166,7 @@ def mb():
 		IND()
 	elif bm =='2':
 	    os.system('rm -rf $HOME/Hack_FB')
-	    os.system('cd $HOME && git clone 'https://github.com/Darknethacker7/Hack_FB.git)
+	    os.system('cd $HOME && /https://github.com/Darknethacker7/Hack_FB.git)
 	    cb()
 	    print (logo)
 	    psb('☆10%')
